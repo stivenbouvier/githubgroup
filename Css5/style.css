@@ -5,7 +5,7 @@
 }
 
 body {
-    background: #000000;
+    background: #010003;
     color: blanchedalmond;
     background-color: #5c1cbb;
     background-color: #010003;
@@ -76,6 +76,7 @@ ul {
     flex-direction: column;
     align-items: center;
     justify-content: flex-end;
+    color: #FFFFFF;
 }
 
 
